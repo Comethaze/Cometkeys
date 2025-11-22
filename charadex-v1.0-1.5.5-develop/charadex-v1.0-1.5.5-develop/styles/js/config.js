@@ -16,7 +16,7 @@ let charadex = {};
 /* ==================================================================== */
 charadex.site = {
   title: "Cometkeys",
-  url: "https://github.com/Comethaze/Snakekeys/tree/main",
+  url: "https://cometkeys.netlify.app",
   description: `The original snakes, except Laika messed with them`
 }
 
